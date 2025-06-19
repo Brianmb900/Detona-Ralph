@@ -27,7 +27,7 @@ function countDown(){
     if(state.values.currentTime <= 0){
         setTimeout(() => {
         gameOver();
-        }, 1);
+        }, 10);
     }
 }
 
@@ -79,7 +79,7 @@ function addListenerHitBox(){
             if(state.values.lifePoints <= 0){
                 setTimeout(() => {
                 gameOver();
-                }, 1);
+                }, 10);
             }
         })
     })
