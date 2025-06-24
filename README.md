@@ -4,4 +4,4 @@
 
 <p> Simples jogo ao estilo de Whac-A-Mole na temática do Detona Ralph feito apenas com HTML, CSS e JS para aprendizado. </p>
 
-* [Detona Ralph](https://github.com/xerial/sqlite-jdbc/releases)
+* [Detona Ralph](https://brianmb900.github.io/Detona-Ralph/)
